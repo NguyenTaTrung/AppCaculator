@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edittext_font_size">40sp</dimen>
+    <dimen name="textview_font_size">30sp</dimen>
+    <dimen name="textview_margin">16dp</dimen>
+</resources>
